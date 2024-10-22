@@ -1,0 +1,1 @@
+fcrackzip -b -l 11847453-10011847452 -u /Users/mortensunde/Code/hackingE4/mtsunde@stud.ntnu.no-fff.zip
